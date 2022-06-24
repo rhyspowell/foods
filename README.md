@@ -1,0 +1,1 @@
+Just getting into the swing of things again with a few simple projects. So much has changed in CSS its pretty much all new to me
